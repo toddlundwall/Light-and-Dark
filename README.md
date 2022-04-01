@@ -1,0 +1,1 @@
+This project is meant to display a dynamic webpage that allows the user to choose light mode or dark mode and stores the user's theme in local storage.
